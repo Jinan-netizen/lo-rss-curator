@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+feedparser
+python-dateutil
+sentence-transformers
+torch
+numpy
